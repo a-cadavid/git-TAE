@@ -1,0 +1,23 @@
+{
+  "name": "git-TAE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-cadavid/git-TAE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-cadavid/git-TAE/issues"
+  },
+  "homepage": "https://github.com/a-cadavid/git-TAE#readme",
+  "dependencies": {
+    "webdriverio": "^7.7.7"
+  }
+}
